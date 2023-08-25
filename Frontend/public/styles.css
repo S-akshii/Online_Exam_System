@@ -1,0 +1,54 @@
+/* 222831 */
+
+.navbar {
+    background-color: #222831;
+}
+
+.navbar-brand {
+    /* font-family: 'Nunito', sans-serif; */
+    font-weight: 500;
+    /* font-size: large ; */
+    color: #00ADB5;
+}
+
+.navbar.btn {
+    background-color: #393E46;
+}
+
+.navbar .btn:hover {
+    background-color: aliceblue;
+    color: #222831;
+}
+
+.dashboard {
+    background-color: #EEEEEE;
+}
+
+.dashboard .card-title {
+    background-color: #222831;
+    color: beige;
+}
+
+.question-button {
+    background-color: rgb(107, 242, 16);
+}
+
+.vh-50 {
+    height: 50vh;
+}
+
+
+.FixedHeightContainer {
+    float: right;
+    height: 60vh;
+    width: 40vh;
+    
+    background: #7d8996
+    
+}
+
+.Content {
+    /* height: 224px; */
+    overflow: auto;
+    background: #fff;
+}
